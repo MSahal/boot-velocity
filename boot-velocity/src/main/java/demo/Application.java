@@ -36,6 +36,11 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.view.velocity.VelocityConfigurer;
 import org.springframework.web.servlet.view.velocity.VelocityViewResolver;
 
+/**
+ * 
+ * @author MSA
+ *
+ */
 @ComponentScan
 @EnableAutoConfiguration
 public class Application extends SpringBootServletInitializer {
